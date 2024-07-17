@@ -93,3 +93,5 @@ l_preco_aoa.place(x=10, y=190)
 info()
 
 janela.mainloop()
+
+# Projeto de estudo!
