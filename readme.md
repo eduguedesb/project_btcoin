@@ -1,0 +1,1 @@
+Projeto de estudo para criar um aplicativo que monitora o valor do bitcoin em tempo real usando python e tkinter.
